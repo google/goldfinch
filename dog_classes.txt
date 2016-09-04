@@ -1,0 +1,515 @@
+"greyhound",/m/03d12
+"boykin spaniel",/m/08s0ws
+"white shepherd",/m/05912f
+"barbet",/m/01p85j
+"koolie",/m/03htgw
+"Standard Schnauzer",/m/04p3f7
+"dogo sardesco",/m/027ybdx
+"northern inuit dog",/m/02qr3y_
+"grand anglo francais tricolore",/m/027xgj9
+"glen of imaal terrier",/m/051ppn
+"american cocker spaniel",/m/01p2lr
+"alpine dachsbracke",/m/0341wr
+"Irish Water Spaniel",/m/044lwh
+"dogue de bordeaux",/m/07dvrh
+"bandog",/m/07dp0r
+"kangal dog",/m/04371y
+"russo european laika",/m/04jnq4b
+"american mastiff",/m/05v3t6
+"maremma sheepdog",/m/05y5lx
+"serbian hound",/m/01p67j
+"alapaha blue blood bulldog",/m/01p29g
+"pungsan dog",/m/026b05m
+"spanish mastiff",/m/074pqh
+"black and tan terrier",/m/07r2m5
+"Pekingese",/m/02bp0t
+"American Eskimo Dog",/m/017lw7
+"atlas terrier",/m/03d8v1v
+"carolina dog",/m/06llrr
+"slovakian rough haired pointer",/m/02rdny4
+"Lhasa Apso",/m/03vrbz
+"Rhodesian Ridgeback",/m/018g_l
+"caucasian shepherd dog",/m/0b0yt1
+"swedish vallhund",/m/01j7n4
+"police dog",/m/02mwm5
+"rajapalayam",/m/05kz7n
+"alopekis",/m/03y949c
+"billy",/m/0gx1zf
+"Australian Kelpie",/m/0gz2b
+"azawakh",/m/011lh
+"tornjak",/m/03jxpp
+"Wire Hair Fox Terrier",/m/03_vn4
+"welsh sheepdog",/m/03c51t7
+"pharaoh hound",/m/0gvx7
+"gaddi kutta",/m/03g_78s
+"berger blanc suisse",/m/03gqk9t
+"hovawart",/m/06k88g
+"brittany",/m/03b8_5
+"braque d auvergne",/m/02r4blp
+"Saluki",/m/076zg
+"dunker",/m/074hj8
+"Irish Terrier",/m/032xlb
+"Bedlington Terrier",/m/02wbf7
+"rat terrier",/m/02_73c
+"toy poodle",/m/02kfwr
+"Redbone Coonhound",/m/0778jb
+"manchester terrier",/m/074g8y
+"welsh terrier",/m/032xnp
+"chilean fox terrier",/m/027m5s1
+"kemmer stock hybrid squirrel dog",/m/04sxb0m
+"Sussex Spaniel",/m/0d5yby
+"potcake dog",/m/02z4cp8
+"Boston Terrier",/m/02x9dk
+"lagotto romagnolo",/m/062dgz
+"catalan sheepdog",/m/03b6hk
+"australian shepherd",/m/02kf24
+"briquet griffon vendeen",/m/025s7vs
+"basset artesien normand",/m/04n4s3s
+"muggin",/m/0403wp9
+"mountain view cur",/m/026nbpz
+"Golden Retriever",/m/01t032
+"karelian bear dog",/m/052h3c
+"coton de tulear",/m/05tbqb
+"laekenois",/m/02vjst
+"swedish lapphund",/m/027dtrb
+"Miniature Poodle",/m/0xn59p7
+"rafeiro do alentejo",/m/09h20b
+"japanese terrier",/m/0388_c
+"norwegian lundehund",/m/01z0mh
+"dogo guatemalteco",/m/0fz4zl
+"Schipperke",/m/01dv7j
+"polish greyhound",/m/08q_mn
+"drever",/m/0282d_y
+"Kuvasz",/m/0j7vm
+"westphalian dachsbracke",/m/04n59y1
+"St. Bernard",/m/02p1d4
+"australian cattle dog",/m/029bcs
+"ori pei",/m/02z1z51
+"bakharwal dog",/m/0bq064
+"bolognese",/m/025swlx
+"cavalier king charles spaniel",/m/01xtxb
+"Bouvier des Flandres",/m/03h71r
+"Pug",/m/016wkx
+"old english bulldog",/m/07lwtn
+"yorkipoo",/m/05sz81t
+"elo",/m/027dkpz
+"american pit bull terrier",/m/049jr6
+"Shih Tzu",/m/01s7fj
+"aidi",/m/01p2gv
+"chihuahua",/m/0khhs
+"kai ken",/m/0dbk_j
+"gran mastin de boinquen",/m/027dn39
+"polish hound",/m/0cxg0c
+"perro de presa canario",/m/035w0_
+"King Charles Spaniel",/m/04nmst
+"lowchen",/m/05sfy0
+"english coonhound",/m/02ppbk1
+"Pembroke Welsh Corgi",/m/02kh2h
+"russell terrier",/m/025tcp1
+"fox terrier",/m/02d6m5
+"lottatore brindisino",/m/027z93w
+"podenco canario",/m/04jdp4p
+"labrador husky",/m/04178h3
+"canaan dog",/m/06g210
+"dalmatian",/m/02rjc05
+"Yorkshire Terrier",/m/01_gx_
+"miniature fox terrier",/m/0361zx
+"dogo argentino",/m/06h8yy
+"Clumber Spaniel",/m/01pm38
+"cane corso",/m/04fzvx
+"patterdale terrier",/m/01sc6y
+"morkie",/m/03cr7fw
+"american hairless terrier",/m/03f84m
+"cordoba fighting dog",/m/07mfhs
+"banter bulldogge",/m/05b1v8y
+"moscow watchdog",/m/0fxnkq
+"chinese foo dog",/m/02rq1cx
+"Mexican Hairless Dog",/m/01k9j2
+"miniature australian shepherd",/m/02xp9c
+"tahltan bear dog",/m/0gh46s
+"olde english bulldogge",/m/0622q7
+"porcelaine",/m/02qllrh
+"spanish water dog",/m/0271kpq
+"bracco italiano",/m/0fzb8x
+"montenegrin mountain hound",/m/01p314
+"east european shepherd",/m/026yps0
+"bullmastiff",/m/01hxnh
+"biewer terrier",/m/040bk2
+"Griffon Bruxellois",/m/04xx17
+"Affenpinscher",/m/01p2dp
+"tervuren",/m/02vjwg
+"mackenzie river husky",/m/01przn
+"lapponian herder",/m/0h13p6
+"austrian black and tan hound",/m/026r9rb
+"blue paul terrier",/m/07_c6h
+"bolonka",/m/04lcnby
+"finnish hound",/m/03y6bvt
+"Tibetan Mastiff",/m/03w0j9
+"black russian terrier",/m/03x_qw
+"Otterhound",/m/05717m
+"borador",/m/03yddhn
+"large munsterlander",/m/07blj0
+"artois hound",/m/0708qt
+"dutch smoushond",/m/04ljfcr
+"german shepherd dog",/m/0km5c
+"rampur greyhound",/m/02rwt8f
+"vikhan sheepdog",/m/03gymyk
+"murray river curly coated retriever",/m/03m7c57
+"toy mi ki",/m/040br4
+"old english terrier",/m/02z3zls
+"parson russell terrier",/m/02kh72
+"Norwich Terrier",/m/03jjm4
+"bouvier des ardennes",/m/04cwhv_
+"native american indian dog",/m/026v2d7
+"german spitz klein",/m/0cpws4
+"kintamani",/m/0cbgst
+"plott hound",/m/08kkns
+"beauceron",/m/01p900
+"mucuchies",/m/04cydjb
+"English Cocker Spaniel",/m/02wbgd
+"siberian husky",/m/071jj
+"estrela mountain dog",/m/066s95
+"puli",/m/02kvr1
+"jagdterrier",/m/04mhks
+"chippiparai",/m/06j1z7
+"blue lacy",/m/0dflqz
+"carpathian shepherd dog",/m/04jhvf6
+"Basset Hound",/m/0hw_s
+"West Highland White Terrier",/m/02f1fz
+"Black and Tan Coonhound",/m/01d7mc
+"French Bulldog",/m/038wt3
+"Entlebucher Mountain Dog",/m/02kn5w
+"kishu",/m/02z2qy0
+"jack russell terrier",/m/01d7fl
+"pit bull",/m/0h5xg
+"ariege pointer",/m/02ryncw
+"cesky terrier",/m/03jgg9
+"cao da serra de aires",/m/02x72gv
+"portuguese pointer",/m/0f339h
+"himalayan sheepdog",/m/03h3knk
+"telomian",/m/04jblhl
+"icelandic sheepdog",/m/012blf
+"lithuanian hound",/m/03d6gvk
+"Pomeranian",/m/016wfy
+"istrian coarse haired hound",/m/09kkkg
+"serbian tricolour hound",/m/01p2_y
+"Welsh Springer Spaniel",/m/081zj5
+"black norwegian elkhound",/m/027dd3t
+"phalene",/m/0393qn
+"hortaya borzaya",/m/0cqpth
+"romanian mioritic shepherd dog",/m/07n97g
+"seppala siberian sleddog",/m/01p08w
+"braque dupuy",/m/04svlc5
+"German Shorthaired Pointer",/m/02kw9d
+"miniature schnauzer",/m/020z66
+"Miniature Pinscher",/m/03svl1
+"polish hunting dog",/m/026qz0j
+"prazsky krysarik",/m/0c3k58
+"gull terr",/m/027z5xc
+"french spaniel",/m/025_sbw
+"cimarron uruguayo",/m/04m_v8k
+"combai",/m/0bnvd7
+"Bloodhound",/m/018z4d
+"czechoslovakian wolfdog",/m/0b3s8y
+"old danish pointer",/m/05py4h
+"saarloos wolfdog",/m/028y5g
+"Papillon",/m/01pkw7
+"africanis",/m/07t_h2
+"poodle crossbreed",/m/04dz31
+"german spaniel",/m/0285t83
+"taigan",/m/03grfxm
+"east siberian laika",/m/03yff_n
+"welsh hound",/m/04jq2rs
+"Kerry Blue Terrier",/m/03cq_p
+"bull terrier miniature",/m/05h19n
+"harrier",/m/0fsg8
+"pachon navarro",/m/02x1w1h
+"Norwegian Elkhound",/m/03vgc4
+"pudelpointer",/m/0f531
+"wirehaired pointing griffon",/m/0m1ct
+"slovak cuvac",/m/03mgvkn
+"australian bulldog",/m/03fqgz
+"norrbottenspets",/m/08r0rx
+"Vizsla",/m/0183xd
+"basset fauve de bretagne",/m/02xlqx
+"Groenendael",/m/02vjrc
+"finnish spitz",/m/035405
+"American Staffordshire Terrier",/m/04m4bq
+"smaland hound",/m/0f9l14
+"Boxer",/m/01llgk
+"treeing tennessee brindle",/m/0410k_5
+"puggle",/m/0bllpv
+"renascence bulldogge",/m/0262799
+"giant dog breed",/m/02r8l4l
+"hellenikos ichnilatis",/m/04swlxt
+"dorset olde tyme bulldogge",/m/05zhy0t
+"pocket beagle",/m/04sxch4
+"small greek domestic dog",/m/047b87_
+"kuchi",/m/0gt7nx
+"shih poo",/m/0fcp14
+"lurcher",/m/03yw2x
+"cretan hound",/m/0gt5n2
+"gascon saintongeois",/m/027xg7c
+"Samoyed",/m/017lg8
+"karakachan dog",/m/02q6wxt
+"neapolitan mastiff",/m/04dzzn
+"Newfoundland",/m/01z404
+"Rottweiler",/m/01nw62
+"jamthund",/m/01x5q1
+"peruvian hairless dog",/m/031pqh
+"norwegian buhund",/m/0632tn
+"puppy",/m/0d7s3w
+"Greater Swiss Mountain Dog",/m/037jtq
+"English Springer Spaniel",/m/020z5t
+"kunming wolfdog",/m/0268p8v
+"canis panther",/m/0dx88y
+"bavarian mountain hound",/m/08r319
+"Cairn Terrier",/m/02z57c
+"sakhalin husky",/m/0btwlv
+"smooth fox terrier",/m/03_vlr
+"boerboel",/m/01fgs3
+"border collie",/m/0pwdp
+"parnell\'s carolina cur",/m/04sxbjk
+"transylvanian hound",/m/02x2kwx
+"gull dong",/m/027y_l4
+"alaunt",/m/062d7w
+"Old English Sheepdog",/m/03j7p3
+"Leonberger",/m/06rq64
+"cavapoo",/m/025wmcw
+"kromfohrlander",/m/0dhvj7
+"dutch shepherd dog",/m/08gl4z
+"chinese chongqing dog",/m/0gn256
+"tyrolean hound",/m/026rclh
+"english mastiff",/m/04gp8k
+"german pinscher",/m/0b6c67
+"english white terrier",/m/0279mmb
+"japanese spitz",/m/07dx0m
+"bucovina shepherd dog",/m/02rxz2k
+"Beagle",/m/01dj7
+"Bernese Mountain Dog",/m/01p5rd
+"treeing cur",/m/0413r8v
+"Irish Setter",/m/039rzl
+"Keeshond",/m/04dmm
+"alano espanol",/m/07j9bq
+"estonian hound",/m/02zblyd
+"Labrador Retriever",/m/0km3f
+"texas heeler",/m/05b4b76
+"tenterfield terrier",/m/035xq8
+"south russian ovcharka",/m/05c21l
+"brazilian terrier",/m/08c5h8
+"schweizer laufhund",/m/02rwrd3
+"Komondor",/m/04dm6
+"halden hound",/m/04zxyjd
+"pumi",/m/07vgwn
+"bench legged feist",/m/04svjwz
+"English Toy Terrier",/m/0353wm
+"Airedale Terrier",/m/017t3p
+"huntaway",/m/0blw4s
+"Afghan Hound",/m/011l1
+"Gordon Setter",/m/0gz0j
+"wetterhoun",/m/02q0900
+"schnoodle",/m/0b26w3
+"akita inu",/m/0g3dv
+"braque du bourbonnais",/m/0fl887
+"longhaired whippet",/m/04f2y36
+"white english bulldog",/m/04mybq0
+"tamaskan dog",/m/03gt33k
+"double nosed andean tiger hound",/m/02x1tfx
+"silken windhound",/m/0djh8b
+"sarplaninac",/m/01p89l
+"grand basset griffon vendeen",/m/0354by
+"mudi",/m/01p33b
+"bergamasco shepherd",/m/02xlz3
+"Standard Poodle",/m/0xn56pv
+"formosan mountain dog",/m/0286819
+"anatolian shepherd dog",/m/04f2yc
+"kooikerhondje",/m/0hkfc
+"Great Dane",/m/0lbw4
+"pyrenean mastiff",/m/04ljzt6
+"small bernese hound",/m/04sxd5_
+"hamiltonstovare",/m/03bt6h
+"Australian Terrier",/m/02gf0p
+"small munsterlander",/m/04prkf
+"ariegeois",/m/02700gv
+"utonagan",/m/054kbj
+"central asian shepherd dog",/m/0c1zmz
+"german wirehaired pointer",/m/02kwdc
+"cocker spaniel",/m/0119x27p
+"russian spaniel",/m/02wcn0z
+"akita",/m/0cqg0t
+"portuguese podengo",/m/07p7st
+"Staffordshire Bull Terrier",/m/01kv93
+"blue picardy spaniel",/m/02pxllv
+"kyi leo",/m/02rwwfw
+"Ibizan Hound",/m/03ys4
+"berger picard",/m/0c779w
+"basset bleu de gascogne",/m/0266ts8
+"ratonero bodeguero andaluz",/m/09v1cn
+"kangaroo dog",/m/0gx2ql
+"armant",/m/04f0rk6
+"mcnab",/m/04kc1b
+"mountain cur",/m/079p_1
+"russkiy toy",/m/04lf2p0
+"Dhole",/m/02dcv
+"austrian pinscher",/m/026r9tr
+"majestic tree hound",/m/04grkh6
+"corgi chihuahua",/m/0466lfh
+"mudhol hound",/m/05698d
+"Chesapeake Bay Retriever",/m/01cx_v
+"chinook",/m/01pq45
+"Irish Wolfhound",/m/03ysk
+"hygenhund",/m/047rk4d
+"Great Pyrenees",/m/01hzb8
+"hokkaido",/m/0bqb_n
+"Italian Greyhound",/m/03ysz
+"field spaniel",/m/03ht9m
+"Chow Chow",/m/0c40t
+"eurohound",/m/04vg_r
+"Weimaraner",/m/02kwjt
+"kerry beagle",/m/027yv56
+"longdog",/m/08skj6
+"english shepherd",/m/01qn1p
+"petit basset griffon vendeen",/m/06m828
+"grand bleu de gascogne",/m/06c5rq
+"sulimov dog",/m/03c208w
+"australian stumpy tail cattle dog",/m/08pb1g
+"Irish Soft-coated Wheaten Terrier",/m/02rfz5
+"Maltese",/m/02cyl6
+"tosa",/m/06smkm
+"dachshund",/m/02cj3
+"thai bangkaew dog",/m/055br8
+"bully kutta",/m/07mxd9
+"broholmer",/m/0fz53g
+"lancashire heeler",/m/05z86m
+"sloughi",/m/076_n
+"greenland dog",/m/0355ff
+"Scottish Terrier",/m/018ywq
+"landseer",/m/04y09b
+"picardy spaniel",/m/02qx_df
+"american staghound",/m/08mgkp
+"Australian Silky Terrier",/m/05h0pv
+"Lakeland Terrier",/m/032xv1
+"English Foxhound",/m/06w066
+"valley bulldog",/m/0c8gtz
+"Alaskan Malamute",/m/01p3d7
+"bull and terrier",/m/09wwy1
+"eurasier",/m/082x3k
+"Tibetan Terrier",/m/05pyhd
+"shikoku",/m/05z8jf
+"alpine mastiff",/m/04zy6k1
+"Scottish Deerhound",/m/076_8
+"segugio italiano",/m/0gf778
+"dorgi",/m/02pl0tr
+"chinese imperial dog",/m/02z4qt6
+"Sealyham Terrier",/m/032xq9
+"stephens cur",/m/0408cgh
+"Shetland Sheepdog",/m/0182yx
+"irish red and white setter",/m/039s48
+"Flat-Coated Retriever",/m/01p8tm
+"pointer",/m/03_7wn
+"kuri",/m/02ptyc4
+"beaglier",/m/011bfkzx
+"aspin",/m/02705r0
+"molossus",/m/08p0pp
+"stabyhoun",/m/053_t0
+"bruno jura hound",/m/02vl55p
+"beagador",/m/02z2jdn
+"skye terrier",/m/0h01s5
+"goldendoodle",/m/02fvym
+"Border Terrier",/m/0353h4
+"portuguese water dog",/m/02_jdw
+"spinone italiano",/m/03l5cy
+"beagle harrier",/m/02pv18t
+"akbash dog",/m/03dszr
+"Japanese Chin",/m/045tty
+"braque saint germain",/m/04svljl
+"toy fox terrier",/m/035xn5
+"chien francais blanc et noir",/m/045lcs
+"mullins feist",/m/04sxbdx
+"drentse patrijshond",/m/03grqp
+"Treeing Walker Coonhound",/m/0773fb
+"bichon frise",/m/0nr94
+"styrian coarse haired hound",/m/026rbnx
+"black mouth cur",/m/025_s2m
+"thai ridgeback",/m/089vcl
+"Dingo",/m/0gz1v
+"Briard",/m/02_70q
+"pont audemer spaniel",/m/08f_zh
+"korean mastiff",/m/04jlw73
+"Borzoi",/m/01j0g
+"perro de presa mallorquin",/m/0fxnhn
+"Giant Schnauzer",/m/04q65n
+"schapendoes",/m/0410kz_
+"nova scotia duck tolling retriever",/m/03l04k
+"mal shi",/m/047tt_4
+"chinese crested dog",/m/01f57_
+"Basenji",/m/01j0x
+"labradoodle",/m/02fxg8
+"fila brasileiro",/m/03n1dn
+"basque shepherd dog",/m/02747h5
+"magyar agar",/m/0ds5x1
+"bohemian shepherd",/m/02pp4mc
+"hanover hound",/m/08wrzy
+"canadian eskimo dog",/m/057_4d
+"moscow water dog",/m/02773yr
+"sapsali",/m/03606n
+"Belgian Shepherd Dog",/m/02vjtz
+"Appenzeller Sennenhund",/m/08mb92
+"havanese",/m/03ydd_
+"cockapoo",/m/02fxgn
+"volpino italiano",/m/05t252
+"gully terrier",/m/02wzf4_
+"kanni",/m/08qktj
+"pyrenean shepherd",/m/02kdvy
+"cirneco dell etna",/m/0bjrtp
+"carlin pinscher",/m/093z2k
+"black and tan virginia foxhound",/m/047d5tc
+"Lycaon pictus",/m/02twvh
+"Dandie Dinmont Terrier",/m/0353qr
+"Norfolk Terrier",/m/05d1_4
+"indian spitz",/m/0bq2r1
+"Whippet",/m/08626
+"plummer terrier",/m/0h7_1g
+"maltepoo",/m/027f_6_
+"bosnian coarse haired hound",/m/026s0q_
+"west siberian laika",/m/0cshcm
+"catahoula bulldog",/m/03nn344
+"sporting lucas terrier",/m/04lflm5
+"king shepherd",/m/04cxnvd
+"collie",/m/02kcj6
+"posavac hound",/m/04sxcxt
+"braque francais",/m/0403yxh
+"cesky fousek",/m/0fgh8v
+"pekapoo",/m/05m_32d
+"teddy roosevelt terrier",/m/04mgcx
+"danish swedish farmdog",/m/0g0rch
+"shiba inu",/m/077hh
+"Cardigan Welsh Corgi",/m/02kgrx
+"australian collie",/m/03m6zhv
+"polish lowland sheepdog",/m/05qgc4
+"toy manchester terrier",/m/0363rs
+"cavachon",/m/0b3q36
+"polish tatra sheepdog",/m/0cpg4b
+"finnish lapphund",/m/08qytw
+"English Setter",/m/0gz1d
+"belgian shepherd",/m/02v9hz
+"Doberman Pinscher",/m/06pq2r
+"korean jindo dog",/m/02n_s4
+"shar pei",/m/03fyyd
+"wirehaired vizsla",/m/047p240
+"bull terrier",/m/05h0h0
+"croatian sheepdog",/m/025_s6d
+"german longhaired pointer",/m/0dpx6y
+"stichelhaar",/m/04sxdd8
+"american foxhound",/m/06v_sc
+"american water spaniel",/m/01p39m
+"Curly Coated Retriever",/m/07bln6
+"shiloh shepherd dog",/m/01pyhj
+"galgo espanol",/m/07701
+"treeing feist",/m/04syk4v
+"toy bulldog",/m/038wvd
+"tibetan spaniel",/m/03yk8l
+"fell terrier",/m/03x_d9z
+"hawaiian poi dog",/m/0dbnmw
+"german spitz mittel",/m/02q64g_
+"Bluetick coonhound",/m/020dr1

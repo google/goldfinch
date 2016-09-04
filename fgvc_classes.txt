@@ -1,0 +1,100 @@
+ATR-42
+ATR-72
+Airbus A300B4
+Airbus A310
+Airbus A318
+Airbus A319
+Airbus A320
+Airbus A321
+Airbus A330-200
+Airbus A330-300
+Airbus A340-200
+Airbus A340-300
+Airbus A340-500
+Airbus A340-600
+Airbus A380
+Antonov An-12
+Beechcraft 1900
+Beechcraft King Air B200
+Boeing 707-320
+Boeing 717
+Boeing 727-200
+Boeing 737-200
+Boeing 737-300
+Boeing 737-400
+Boeing 737-500
+Boeing 737-600
+Boeing 737-700
+Boeing 737-800
+Boeing 737-900
+Boeing 747-100
+Boeing 747-200
+Boeing 747-300
+Boeing 747-400
+Boeing 757-200
+Boeing 757-300
+Boeing 767-200
+Boeing 767-300
+Boeing 767-400
+Boeing 777-200
+Boeing 777-300
+Bombardier Global Express
+British Aerospace 146-200
+British Aerospace 146-300
+British Aerospace 125
+British Aerospace Hawk T1
+Canadair CRJ-200
+Canadair CRJ-700
+Canadair CRJ-900
+Canadair Challenger 600
+Cessna 172
+Cessna 208
+Cessna Citation 525
+Cessna Citation 560
+Cirrus SR-20
+Dassault Falcon 2000
+Dassault Falcon 900
+Dornier 328
+Douglas C-47
+Douglas DC-3
+Douglas DC-6
+Douglas DC-8
+Embraer EMB-120
+Embraer E-170
+Embraer E-190
+Embraer E-195
+Embraer ERJ 135
+Embraer ERJ 145
+Embraer Legacy 600
+Eurofighter Typhoon
+Fairchild Metroliner
+Fokker 100
+Fokker 50
+Fokker 70
+Gulfstream IV
+Gulfstream V
+Ilyushin Il-76
+Lockheed C-130
+Lockheed L-1011
+Lockheed Martin F-16A/B
+McDonnell Douglas DC-10
+McDonnell Douglas DC-9-30
+McDonnell Douglas F/A-18
+McDonnell Douglas MD-11
+McDonnell Douglas MD-80
+McDonnell Douglas MD-87
+McDonnell Douglas MD-90
+Panavia Tornado
+Piper PA-28
+Robin DR-400
+Saab 2000
+Saab 340
+Supermarine Spitfire
+Tupolev Tu-134
+Tupolev Tu-154
+Yakovlev Yak-42
+de Havilland DH-82
+de Havilland DHC-1
+de Havilland DHC-6
+de Havilland DHC-8-100
+de Havilland DHC-8-300

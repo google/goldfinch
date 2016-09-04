@@ -1,0 +1,200 @@
+Black-footed Albatross,/m/04njb7
+Laysan Albatross,/m/0544gc
+Sooty Albatross,/m/07yydf
+Groove-billed Ani,/m/06rr8q
+Crested Auklet,/m/0b7l1s
+Least Auklet,/m/07sdy7
+Parakeet Auklet,/m/04lx5r
+Rhinoceros Auklet,/m/04sglp
+Brewer Blackbird,/m/022cbs
+Red-winged Blackbird,/m/01c1g2
+Rusty Blackbird,/m/022c98
+Yellow-headed Blackbird,/m/021pmx
+Bobolink,/m/021pkm
+Indigo Bunting,/m/020vbd
+Lazuli Bunting,/m/04c3xq
+Painted Bunting,/m/06cpxw
+Cardinal,/m/01m0p1
+Spotted Catbird,/m/0dqnnz
+Gray Catbird,/m/022qdd
+Yellow-breasted Chat,/m/029lqp
+Eastern Towhee,/m/01xp7s
+Chuck-will's-Widow,/m/09q576
+Brandt Cormorant,/m/01fh_r
+Red-faced Cormorant,/m/0f2pbk
+Pelagic Cormorant,/m/01g46r
+Bronzed Cowbird,/m/08s10t
+Shiny Cowbird,/m/06dnff
+Brown Creeper,/m/024j9l
+American Crow,/m/01f6pd
+Fish Crow,/m/01g1fg
+Black-billed Cuckoo,/m/01ysq_
+Mangrove Cuckoo,/m/0h1k7x
+Yellow-billed Cuckoo,/m/01yxbj
+Gray-crowned Rosy Finch,/m/023qgy
+Purple Finch,/m/0206tv
+Northern Flicker,/m/01zbv5
+Acadian Flycatcher,/m/025zc9
+Great Crested Flycatcher,/m/026gtz
+Least Flycatcher,/m/025s_5
+Olive-sided Flycatcher,/m/025dpb
+Scissor-tailed Flycatcher,/m/03bwfz
+Vermilion Flycatcher,/m/090p2c
+Yellow-bellied Flycatcher,/m/025g98
+Frigatebird,/m/01901n
+Northern Fulmar,/m/01wt__
+Gadwall,/m/01h0hr
+American Goldfinch,/m/0b46c
+European Goldfinch,/m/01gqnh
+Boat-tailed Grackle,/m/03425f
+Eared Grebe,/m/01cybj
+Horned Grebe,/m/01cyb2
+Pied-billed Grebe,/m/01f709
+Western Grebe,/m/01f74z
+Blue Grosbeak,/m/08s5kp
+Evening Grosbeak,/m/020j9k
+Pine Grosbeak,/m/020jcq
+Rose-breasted Grosbeak,/m/020q5q
+Pigeon Guillemot,/m/01vkfq
+California Gull,/m/037lsy
+Glaucous-winged Gull,/m/08kr1b
+Heermann Gull,/m/0394tt
+Herring Gull,/m/03b_9nn
+Ivory Gull,/m/0222x9
+Ring-billed Gull,/m/01xfy_
+Slaty-backed Gull,/m/08k7y_
+Western Gull,/m/04hjj1
+Anna Hummingbird,/m/02dl45
+Ruby-throated Hummingbird,/m/01w3sb
+Rufous Hummingbird,/m/01jdhl
+Green Violetear,/m/086yb3
+Long-tailed Jaeger,/m/01lnqd
+Pomarine Jaeger,/m/01zlcz
+Blue Jay,/m/01f8m5
+Florida Jay,/m/02by4s
+Green Jay,/m/01frs7
+Dark-eyed Junco,/m/01xr4p
+Tropical Kingbird,/m/054khg
+Gray Kingbird,/m/06r94d
+Belted Kingfisher,/m/01bqq_
+Green Kingfisher,/m/05svt2
+Pied Kingfisher,/m/01l0m3
+Ringed Kingfisher,/m/0268mmd
+White-throated Kingfisher,/m/02qzqz
+Red-legged Kittiwake,/m/02vk62s
+Horned Lark,/m/01wbgj
+Pacific Loon,/m/019283
+Mallard,/m/01hjj1
+Western Meadowlark,/m/021tc3
+Hooded Merganser,/m/01l_75
+Red-breasted Merganser,/m/01m462
+Mockingbird,/m/01g29b
+Nighthawk,/m/01d__0
+Clark Nutcracker,/m/01g8z5
+White-breasted Nuthatch,/m/024g8w
+Baltimore Oriole,/m/021_gn
+Hooded Oriole,/m/0223hf
+Orchard Oriole,/m/021_nr
+Scott Oriole,/m/08rf1k
+Ovenbird,/m/028vhz
+Brown Pelican,/m/01fd4b
+White Pelican,/m/01fd3j
+Western Wood Pewee,/m/025bct
+Sayornis,/m/026vfy
+American Pipit,/m/025248
+eastern Whip-poor-Will,/m/01ysq9
+Horned Puffin,/m/02mc34
+Common Raven,/m/021klp
+White-necked Raven,/m/01fycf
+American Redstart,/m/0269zc
+Geococcyx,/m/04g85h
+Loggerhead Shrike,/m/01dfry
+Great Grey Shrike,/m/01c4ct
+Baird Sparrow,/m/02jtv9
+Black-throated Sparrow,/m/090g2_
+Brewer Sparrow,/m/052n64
+Chipping Sparrow,/m/01y8z0
+Clay-colored Sparrow,/m/02fsb7
+House Sparrow,/m/01bwb9
+Field Sparrow,/m/027h8n
+Fox Sparrow,/m/01ynbc
+Grasshopper Sparrow,/m/0277y_
+Harris Sparrow,/m/09092x
+Henslow Sparrow,/m/027mlj
+Le Conte's Sparrow,/m/02fsh9
+Lincoln Sparrow,/m/0277sj
+nelson's sparrow,/m/026zk4
+Savannah Sparrow,/m/025fnn
+Seaside Sparrow,/m/02ptfj8
+Song Sparrow,/m/01y5dx
+Tree Sparrow,/m/01bwbt
+Vesper Sparrow,/m/027h5c
+White-crowned Sparrow,/m/01xtp1
+White-throated Sparrow,/m/01l66y
+Cape Starling,/m/02w56mx
+Bank Swallow,/m/01c004
+Barn Swallow,/m/0hhtq
+Cliff Swallow,/m/026hy2s
+Tree Swallow,/m/01ykhr
+Scarlet Tanager,/m/022sn0
+Summer Tanager,/m/022snt
+Artic Tern,/m/01jqht
+Black Tern,/m/01ts99
+Caspian Tern,/m/01vh6b
+Common Tern,/m/01jsmq
+Elegant Tern,/m/022lhj
+Forsters Tern,/m/022ljp
+Least Tern,/m/0bd5fk
+Green-tailed Towhee,/m/090q03
+Brown Thrasher,/m/01k66b
+Sage Thrasher,/m/03frjd
+Black-capped Vireo,/m/07x44d
+Blue-headed Vireo,/m/025069
+Philadelphia Vireo,/m/024tx2
+Red-eyed Vireo,/m/024tpf
+Warbling Vireo,/m/024z6w
+White-eyed Vireo,/m/033py5
+Yellow-throated Vireo,/m/025085
+Bay-breasted Warbler,/m/025xd5
+Black-and-white Warbler,/m/0261d0
+Black-throated Blue Warbler,/m/028h35
+Blue-winged Warbler,/m/026b0d
+Canada Warbler,/m/028z41
+Cape May Warbler,/m/025pyb
+Cerulean Warbler,/m/028mmm
+Chestnut-sided Warbler,/m/025smp
+Golden-winged Warbler,/m/0269_l
+Hooded Warbler,/m/0264zg
+Kentucky Warbler,/m/07fh0h
+Magnolia Warbler,/m/025x65
+Mourning Warbler,/m/028z0w
+Myrtle Warbler,/m/025h_7
+Nashville Warbler,/m/029lnd
+Orange-crowned Warbler,/m/029zw6
+Palm Warbler,/m/0292xy
+Pine Warbler,/m/0292rt
+Prairie Warbler,/m/0292td
+Prothonotary Warbler,/m/029vyx
+Swainson Warbler,/m/07fglh
+Tennessee Warbler,/m/026cng
+Wilson Warbler,/m/0264y9
+Worm-eating Warbler,/m/03fvxt
+Yellow Warbler,/m/025xb6
+Northern Waterthrush,/m/0264p6
+Louisiana Waterthrush,/m/0264qm
+Bohemian Waxwing,/m/01crzf
+Cedar Waxwing,/m/01dqy5
+American Three-toed Woodpecker,/m/09r4h1
+Pileated Woodpecker,/m/01zbqj
+Red-bellied Woodpecker,/m/01zpxn
+Red-cockaded Woodpecker,/m/02x16f
+Red-headed Woodpecker,/m/01zd3q
+Downy Woodpecker,/m/01zjfg
+Bewick Wren,/m/06ys27
+Cactus Wren,/m/027qmz
+Carolina Wren,/m/02dypt
+House Wren,/m/027zph
+Marsh Wren,/m/027wbq
+Rock Wren,/m/027zrd
+Winter Wren,/m/0193xp
+Common Yellowthroat,/m/02613v
