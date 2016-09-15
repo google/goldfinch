@@ -113,7 +113,15 @@ E.g.
 
 
 --------------------------------------------------------------------------------
-{aircraft,bird,dog,lepidoptera}_urls.txt
+Compressed version of URL text files. Github has a 100MB file size limit. As a
+result, we had to split bird_urls into 2 files: bird_urls1, bird_urls2 and
+compress them separately.
+--------------------------------------------------------------------------------
+aircraft_urls.txt.7z
+bird_urls1.txt.7z
+bird_urls2.txt.7z
+dog_urls.txt.7z
+lepidoptera_urls.txt.7z
 --------------------------------------------------------------------------------
 For each image search image:
 freebase id (or category name for aircraft),urls
