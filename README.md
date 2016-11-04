@@ -6,7 +6,7 @@ Here we list the files included in this release and their formats. Where possibl
 
 ----
 ## Class files
-----
+
 ### cub_classes.txt:
 For each category in the CUB dataset:
 ```
@@ -115,7 +115,7 @@ E.g.
 
 ----
 ## Image URLs
-----
+
 Compressed version of URL text files. Github has a 100MB file size limit. As a
 result, we had to split bird_urls into 2 files: bird_urls1, bird_urls2 and
 compress them separately.
@@ -157,7 +157,7 @@ E.g.
 
 ----
 ## Active learning files
-----
+
 ### sdogs_active_learning_iteration{1,2}.txt: 
 Images mined from Yahoo Flickr Creative Commons 100M dataset.  Format of each
 line, with values delimited by commas:
