@@ -179,4 +179,4 @@ E.g.
 ...
 ```
 
-Questions can be directed to jkrause@cs.stanford.edu and howardzhou@google.com.
+Questions can be directed to jkrause@google.com and howardzhou@google.com.
