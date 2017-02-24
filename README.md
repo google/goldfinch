@@ -2,7 +2,7 @@
 
 Goldfinch is a dataset for fine-grained recognition challenges. It contains a list of bird, butterfly, aircraft, and dog categories with relevant Google image search and Flickr search URLs. In addition, it also includes a set of active learning annotations on dog categories. Goldfinch was published along with our [ECCV'16](http://www.eccv2016.org/) paper [The Unreasonable Effectiveness of Noisy Data for Fine-Grained Recognition](https://arxiv.org/abs/1511.06789).
 
-Here we list the files included in this release and their formats. Where possible, we have mapped category names to freebase ids as a form of canonicalization. Questions can be directed to jkrause@cs.stanford.edu and howardzhou@google.com.
+Here we list the files included in this release and their formats. Where possible, we have mapped category names to freebase ids as a form of canonicalization. Questions can be directed to jkrause@google.com and howardzhou@google.com.
 
 ----
 ## Class files
